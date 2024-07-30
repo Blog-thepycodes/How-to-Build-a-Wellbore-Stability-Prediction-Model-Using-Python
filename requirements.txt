@@ -1,0 +1,7 @@
+$ pip install imblearn 
+$ pip install pandas
+$ pip install scikit-learn
+$ pip install imbalanced-learn
+$ pip install matplotlib
+$ pip install seaborn
+$ pip install tk
